@@ -1,1 +1,2 @@
-# Find-trumpy
+# FindTrumpy
+Final project
